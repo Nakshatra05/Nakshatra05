@@ -1,4 +1,4 @@
-👋 2nd Year Enginnering Student at IIT Roorkee, A passionate and dedicated developer with a strong focus on creating robust and innovative software solutions. With a deep love for coding and problem-solving, I'm always seeking new challenges and opportunities to expand my skills.
+👋 3rd Year Enginnering Student at IIT Roorkee, A passionate and dedicated developer with a strong focus on creating robust and innovative software solutions. With a deep love for coding and problem-solving, I'm always seeking new challenges and opportunities to expand my skills.
 
 ✉️ Linkedin: https://www.linkedin.com/in/nakshatra-goel/
 
