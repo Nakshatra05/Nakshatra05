@@ -2,7 +2,7 @@
 
 ✉️ Linkedin: https://www.linkedin.com/in/nakshatra-goel/
 
-✉️ Email: [nakshatragoel05@gmail.com]
+✉️ Email: nakshatragoel05@gmail.com
 
 💻 Core Skills:
 Blockchain, Full-stack Development Web Development (HTML, CSS, JavaScript) Back-end Development (Node.js) Front-end Frameworks (React) Database Management (MongoDB) Version Control (Git, GitHub)
