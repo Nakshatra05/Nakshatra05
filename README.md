@@ -4,6 +4,8 @@ A passionate and dedicated developer with a strong focus on creating robust and 
 
 ✉️ Linkedin: https://www.linkedin.com/in/nakshatra-goel/
 
+✉️ Twitter: https://www.x.com/Naksh005
+
 ✉️ Email: nakshatragoel05@gmail.com
 
 💻 Core Skills:
